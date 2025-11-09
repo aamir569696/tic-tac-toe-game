@@ -52,8 +52,8 @@ main .reset-game .rest-btn {
   gap: 10px;
 }
 .buttons button {
-  width: 29%;
-  height: 13vh;
+  width: 24%;
+  height: 15vh;
   border-radius: 10px;
   border: none;
   font-size: 30px;
@@ -96,8 +96,8 @@ main .reset-game .rest-btn {
     width: 66%;
   }
   .buttons button {
-    width: 24%;
-    height: 14vh;
+    width: 29%;
+    height: 13vh;
     font-size: 30px;
   }
 }/*# sourceMappingURL=style.css.map */

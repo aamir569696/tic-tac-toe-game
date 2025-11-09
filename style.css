@@ -52,8 +52,8 @@ main .reset-game .rest-btn {
   gap: 10px;
 }
 .buttons button {
-  width: 23%;
-  height: 15vh;
+  width: 29%;
+  height: 13vh;
   border-radius: 10px;
   border: none;
   font-size: 30px;
